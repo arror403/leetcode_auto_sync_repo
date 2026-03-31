@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
