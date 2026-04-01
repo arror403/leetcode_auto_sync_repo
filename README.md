@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
 |  |
 | ------- |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+| [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+## Stack
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
