@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
