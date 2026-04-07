@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
