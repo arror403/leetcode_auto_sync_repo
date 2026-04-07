@@ -2,26 +2,26 @@
 <!-- Describe your first thoughts on how to solve this problem. -->
 Regex is quite suitable for this question.
 # Approach
-By uncomment print(r.match(s)) in the for loop:
-
-sentence = "alice and  bob are playing stone-game10"
-Stdout:
-<re.Match object; span=(0, 5), match='alice'>
-<re.Match object; span=(0, 3), match='and'>
-<re.Match object; span=(0, 3), match='bob'>
-<re.Match object; span=(0, 3), match='are'>
-<re.Match object; span=(0, 7), match='playing'>
-None
-Output: 5
-
-sentence = "a-b. afad ba-c a! !"
-Stdout:
-<re.Match object; span=(0, 4), match='a-b.'>
-<re.Match object; span=(0, 4), match='afad'>
-<re.Match object; span=(0, 4), match='ba-c'>
-<re.Match object; span=(0, 2), match='a!'>
-<re.Match object; span=(0, 1), match='!'>
-Output: 5
+By uncomment **print(r.match(s))** in the for loop: <br>
+ <br>
+sentence = "alice and  bob are playing stone-game10" <br>
+Stdout: <br>
+<re.Match object; span=(0, 5), match='alice'> <br>
+<re.Match object; span=(0, 3), match='and'> <br>
+<re.Match object; span=(0, 3), match='bob'> <br>
+<re.Match object; span=(0, 3), match='are'> <br>
+<re.Match object; span=(0, 7), match='playing'> <br>
+None <br>
+Output: 5 <br> 
+ <br>
+sentence = "a-b. afad ba-c a! !" <br>
+Stdout: <br>
+<re.Match object; span=(0, 4), match='a-b.'> <br>
+<re.Match object; span=(0, 4), match='afad'> <br>
+<re.Match object; span=(0, 4), match='ba-c'> <br>
+<re.Match object; span=(0, 2), match='a!'> <br>
+<re.Match object; span=(0, 1), match='!'> <br>
+Output: 5 <br>
 # Code
 ```python3 []
 class Solution:
