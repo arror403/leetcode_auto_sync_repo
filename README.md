@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0027-remove-element) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3975-xor-after-range-multiplication-queries-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
