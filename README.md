@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
+| [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3975-xor-after-range-multiplication-queries-ii) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
