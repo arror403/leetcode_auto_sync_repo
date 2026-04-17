@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
+## Math
+|  |
+| ------- |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
