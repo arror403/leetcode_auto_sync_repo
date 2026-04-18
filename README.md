@@ -95,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4168-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
