@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
