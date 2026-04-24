@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
