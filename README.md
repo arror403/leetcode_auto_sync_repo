@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+| [4124-count-good-integers-on-a-grid-path](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4124-count-good-integers-on-a-grid-path) |
 ## Greedy
 |  |
 | ------- |
