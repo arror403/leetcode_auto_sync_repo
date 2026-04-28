@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 ## Stack
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4168-mirror-distance-of-an-integer) |
 ## Trie
