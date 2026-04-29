@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
@@ -138,8 +139,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
