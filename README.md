@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
+| [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [4124-count-good-integers-on-a-grid-path](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4124-count-good-integers-on-a-grid-path) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
+| [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
