@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0006-zigzag-conversion) |
+| [0812-rotate-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2173-number-of-valid-words-in-a-sentence) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
