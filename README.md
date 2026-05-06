@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0048-rotate-image) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 ## Stack
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0061-rotate-list) |
+| [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
