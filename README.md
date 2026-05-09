@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0048-rotate-image) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
+| [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 ## Stack
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
