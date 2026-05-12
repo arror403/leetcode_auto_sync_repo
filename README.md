@@ -1,6 +1,8 @@
 # leetcode_auto_sync_repo
 Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
+*The problem number shown here isn't the same as on leetcode, it might changed to a differfnt format.*
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
