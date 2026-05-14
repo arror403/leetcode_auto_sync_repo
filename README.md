@@ -12,6 +12,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
+| [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -40,6 +41,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
 |  |
@@ -68,6 +70,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
