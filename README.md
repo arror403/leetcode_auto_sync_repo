@@ -8,6 +8,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Hash Table
 |  |
 | ------- |
+| [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
@@ -54,6 +55,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -191,6 +193,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
