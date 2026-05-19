@@ -12,6 +12,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
+| [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -70,6 +71,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
@@ -152,12 +154,14 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0061-rotate-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0061-rotate-list) |
 | [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 ## Math
 |  |
