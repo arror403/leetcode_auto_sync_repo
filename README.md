@@ -14,6 +14,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
@@ -75,6 +76,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2639-separate-the-digits-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
@@ -204,6 +206,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
