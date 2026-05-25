@@ -29,6 +29,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0006-zigzag-conversion](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -103,6 +104,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
+| [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3981-jump-game-ix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3981-jump-game-ix) |
@@ -145,6 +147,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2721-sum-of-distances) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -233,4 +236,8 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
