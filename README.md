@@ -18,6 +18,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -40,6 +41,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3019-furthest-point-from-origin) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
