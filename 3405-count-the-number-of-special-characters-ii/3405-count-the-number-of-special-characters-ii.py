@@ -1,22 +1,10 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
-        res=0
-        d=defaultdict(list)
-        for i,c in enumerate(word): d[c].append(i)
-        
-        s=set()
-        for c in word:
-            if c.islower():
-                s.add(c)
+        res = 0
 
-        for c in s:
-            C=c.upper()
-            if C in d:
-                upper_i=d[C]
-                lower_i=d[c]
-
-                if all(i<upper_i[0] for i in lower_i):
-                    res+=1
+        for l, u in zip(ascii_lowercase, ascii_uppercase):
+            if l not in word or u not in word: continue
+            res += word.rfind(l) < word.find(u)
 
 
         return res
