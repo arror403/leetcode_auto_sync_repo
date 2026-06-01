@@ -53,6 +53,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -83,6 +84,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -125,6 +127,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 ## Union-Find
 |  |
