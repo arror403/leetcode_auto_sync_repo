@@ -58,6 +58,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3981-jump-game-ix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3981-jump-game-ix) |
@@ -132,6 +134,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +189,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +201,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3435-block-placement-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3435-block-placement-queries) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
 | ------- |
