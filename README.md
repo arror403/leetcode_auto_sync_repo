@@ -89,6 +89,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -126,6 +127,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3981-jump-game-ix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3981-jump-game-ix) |
@@ -295,4 +297,8 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2306-create-binary-tree-from-descriptions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
