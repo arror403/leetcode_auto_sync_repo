@@ -201,6 +201,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0061-rotate-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0061-rotate-list) |
 | [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -278,6 +279,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0061-rotate-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
