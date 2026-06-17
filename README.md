@@ -47,6 +47,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3405-count-the-number-of-special-characters-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3931-process-string-with-special-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
 ## Prefix Sum
