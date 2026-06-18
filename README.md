@@ -229,6 +229,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
