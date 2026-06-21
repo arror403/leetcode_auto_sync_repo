@@ -55,6 +55,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
@@ -84,6 +85,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -143,6 +145,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -319,4 +322,8 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
