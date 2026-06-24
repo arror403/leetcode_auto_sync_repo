@@ -139,6 +139,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3981-jump-game-ix) |
 | [4124-count-good-integers-on-a-grid-path](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4124-count-good-integers-on-a-grid-path) |
 ## Greedy
@@ -242,6 +243,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4168-mirror-distance-of-an-integer) |
 ## Trie
