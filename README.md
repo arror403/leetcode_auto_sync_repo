@@ -74,6 +74,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0048-rotate-image](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
@@ -133,6 +134,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
