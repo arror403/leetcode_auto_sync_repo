@@ -35,6 +35,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -96,6 +97,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
