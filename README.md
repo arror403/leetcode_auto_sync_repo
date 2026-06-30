@@ -70,6 +70,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4348-maximum-total-sum-of-k-selected-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4348-maximum-total-sum-of-k-selected-elements) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
+| [4348-maximum-total-sum-of-k-selected-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4348-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4005-maximum-total-subarray-value-i) |
+| [4348-maximum-total-sum-of-k-selected-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4348-maximum-total-sum-of-k-selected-elements) |
 ## Union-Find
 |  |
 | ------- |
