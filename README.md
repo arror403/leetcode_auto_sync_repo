@@ -123,6 +123,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3376-longest-common-suffix-queries) |
 | [3435-block-placement-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3435-block-placement-queries) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -184,6 +185,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
@@ -350,6 +353,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -362,4 +366,9 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
