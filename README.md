@@ -109,6 +109,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2634-minimum-common-value) |
@@ -165,6 +166,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -260,6 +262,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
