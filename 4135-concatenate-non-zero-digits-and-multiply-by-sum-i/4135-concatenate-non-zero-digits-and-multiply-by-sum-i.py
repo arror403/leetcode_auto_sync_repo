@@ -1,5 +1,9 @@
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        x=[v for v in map(int,str(n)) if v!=0]
-        
-        return sum(x)*int(''.join(str(v) for v in x)) if x else 0
+        x=''
+        s=0
+        for v in str(n):
+            if v!='0': x+=v
+            s+=int(v)
+
+        return s*int(x) if x else 0
