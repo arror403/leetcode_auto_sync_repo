@@ -83,6 +83,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
@@ -162,6 +163,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
