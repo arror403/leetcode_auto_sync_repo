@@ -186,6 +186,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+| [2793-count-the-number-of-complete-components](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -305,6 +306,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2793-count-the-number-of-complete-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -314,6 +316,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -385,6 +388,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
+| [2793-count-the-number-of-complete-components](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
