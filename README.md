@@ -8,6 +8,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -58,6 +59,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -86,6 +88,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
+| [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
