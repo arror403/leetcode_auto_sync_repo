@@ -398,4 +398,8 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
