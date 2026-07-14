@@ -132,6 +132,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3435-block-placement-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3435-block-placement-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -161,6 +162,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3981-jump-game-ix) |
@@ -280,6 +282,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -349,6 +352,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Number Theory
 |  |
 | ------- |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
