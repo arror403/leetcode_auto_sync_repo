@@ -286,6 +286,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3964-number-of-zigzag-arrays-ii) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4168-mirror-distance-of-an-integer) |
@@ -354,6 +355,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
