@@ -74,6 +74,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4348-maximum-total-sum-of-k-selected-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4348-maximum-total-sum-of-k-selected-elements) |
 ## Array
 |  |
@@ -149,6 +150,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4348-maximum-total-sum-of-k-selected-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4348-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
@@ -221,6 +223,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3939-process-string-with-special-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +294,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -356,6 +361,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
