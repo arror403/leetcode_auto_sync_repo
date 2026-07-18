@@ -108,6 +108,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2043-cyclically-rotating-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2043-cyclically-rotating-a-grid) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2240-intervals-between-identical-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2240-intervals-between-identical-elements) |
@@ -283,6 +284,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -358,6 +360,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3995-gcd-of-odd-and-even-sums) |
