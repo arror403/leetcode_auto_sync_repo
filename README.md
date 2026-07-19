@@ -36,6 +36,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0006-zigzag-conversion](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -175,6 +176,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
@@ -209,6 +211,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
@@ -383,6 +386,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Monotonic Stack
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Binary Tree
 |  |
