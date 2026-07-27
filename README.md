@@ -64,6 +64,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
@@ -99,6 +100,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1428-jump-game-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -405,6 +407,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
