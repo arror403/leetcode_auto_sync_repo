@@ -54,6 +54,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3376-longest-common-suffix-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4216-weighted-word-mapping) |
@@ -75,6 +76,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -414,6 +416,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1961-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
