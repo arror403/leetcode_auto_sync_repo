@@ -50,6 +50,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3019-furthest-point-from-origin) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -194,6 +195,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -301,6 +303,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2831-number-of-beautiful-pairs) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
