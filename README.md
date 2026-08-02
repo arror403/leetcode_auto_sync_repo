@@ -100,6 +100,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0636-exclusive-time-of-functions) |
+| [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
@@ -175,6 +176,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0396-rotate-function](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
+| [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
@@ -303,6 +305,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
+| [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
@@ -456,4 +459,5 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
