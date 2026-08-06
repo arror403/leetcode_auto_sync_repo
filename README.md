@@ -319,6 +319,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3859-maximum-product-of-two-digits) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -457,6 +458,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
