@@ -108,6 +108,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1308-smallest-string-with-swaps](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1308-smallest-string-with-swaps) |
@@ -185,6 +186,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -258,6 +260,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
@@ -316,6 +319,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0804-rotated-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -476,4 +480,13 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
