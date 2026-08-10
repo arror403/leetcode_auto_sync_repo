@@ -188,6 +188,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2708-find-the-string-with-lcp](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2708-find-the-string-with-lcp) |
@@ -321,6 +322,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
 | [1968-maximum-building-height](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -481,12 +483,23 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0486-predict-the-winner](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
