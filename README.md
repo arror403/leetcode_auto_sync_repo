@@ -22,6 +22,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2831-number-of-beautiful-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2831-number-of-beautiful-pairs) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -154,6 +155,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [2846-robot-collisions](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2892-check-if-array-is-good) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3376-longest-common-suffix-queries) |
@@ -424,6 +426,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -501,7 +504,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
