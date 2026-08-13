@@ -8,6 +8,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Hash Table
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1308-smallest-string-with-swaps) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
@@ -40,6 +41,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0006-zigzag-conversion) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0812-rotate-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -284,6 +286,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -424,6 +427,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -504,7 +508,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
