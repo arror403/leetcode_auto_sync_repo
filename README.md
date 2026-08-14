@@ -27,6 +27,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3750-closest-equal-element-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3750-closest-equal-element-queries) |
@@ -61,6 +62,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3376-longest-common-suffix-queries](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -431,6 +433,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2001-jump-game-vii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -508,7 +511,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
