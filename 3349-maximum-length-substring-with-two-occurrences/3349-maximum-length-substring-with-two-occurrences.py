@@ -1,11 +1,16 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-        res=0
-        t=[s[i:j] for i in range(len(s)) for j in range(i+1, len(s)+1)]
+        l=res=0
+        d=defaultdict(int)
 
-        for x in t:
-            if all([v<=2 for v in Counter(x).values()]):
-                res=max(res, len(x))
+        for r in range(len(s)):
+            d[s[r]]+=1
+
+            while d[s[r]]>2:
+                d[s[l]]-=1
+                l+=1
+            
+            res=max(res, r-l+1)
 
 
         return res
