@@ -9,6 +9,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1308-smallest-string-with-swaps) |
 | [1447-jump-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1447-jump-game-iv) |
@@ -75,6 +76,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0935-orderly-queue) |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1308-smallest-string-with-swaps) |
 | [1466-jump-game-v](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1466-jump-game-v) |
@@ -115,6 +117,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | [0909-stone-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0909-stone-game) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1105-uncrossed-lines](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1105-uncrossed-lines) |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [1240-stone-game-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -212,6 +215,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 | ------- |
 | [0770-couples-holding-hands](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0770-couples-holding-hands) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -365,6 +369,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Counting
 |  |
 | ------- |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [2831-number-of-beautiful-pairs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3019-furthest-point-from-origin) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -456,6 +461,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1140-distant-barcodes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1140-distant-barcodes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -511,7 +517,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1617-stone-game-iv) |
