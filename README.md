@@ -19,8 +19,17 @@
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
