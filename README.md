@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
