@@ -51,4 +51,12 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
