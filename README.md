@@ -26,6 +26,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -60,5 +61,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Sliding Window
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
