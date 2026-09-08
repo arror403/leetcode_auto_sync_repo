@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [4245-count-commas-in-range](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4245-count-commas-in-range) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
 |  |
