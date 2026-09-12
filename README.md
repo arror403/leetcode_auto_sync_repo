@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
