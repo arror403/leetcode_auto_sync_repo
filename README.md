@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [4245-count-commas-in-range](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
