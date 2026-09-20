@@ -33,6 +33,7 @@
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
+| [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 ## Geometry
 |  |
 | ------- |
