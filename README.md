@@ -39,6 +39,7 @@
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
@@ -119,8 +120,10 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
