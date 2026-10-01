@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -120,12 +121,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
