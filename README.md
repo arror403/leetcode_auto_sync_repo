@@ -40,6 +40,7 @@
 | [0022-generate-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -155,4 +156,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
