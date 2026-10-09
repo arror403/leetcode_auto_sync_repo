@@ -48,6 +48,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -59,6 +60,7 @@
 | [0678-valid-parenthesis-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
@@ -141,6 +143,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -154,6 +157,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
