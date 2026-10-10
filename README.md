@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
+| [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -114,6 +115,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
