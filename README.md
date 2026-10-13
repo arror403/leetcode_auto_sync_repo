@@ -15,6 +15,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
