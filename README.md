@@ -33,6 +33,7 @@
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -66,6 +67,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
