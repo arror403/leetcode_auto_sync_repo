@@ -12,6 +12,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -25,6 +26,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
@@ -177,4 +179,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
