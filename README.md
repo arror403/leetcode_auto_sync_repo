@@ -20,6 +20,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4398-transform-array-using-pair-operations](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4398-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +191,8 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [4398-transform-array-using-pair-operations](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4398-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
