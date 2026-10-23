@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -195,4 +196,16 @@
 |  |
 | ------- |
 | [4398-transform-array-using-pair-operations](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4398-transform-array-using-pair-operations) |
+## Primality Test
+|  |
+| ------- |
+| [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
 <!---LeetCode Topics End-->
