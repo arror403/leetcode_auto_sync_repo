@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
