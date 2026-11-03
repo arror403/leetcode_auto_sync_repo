@@ -20,6 +20,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4398-transform-array-using-pair-operations](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4398-transform-array-using-pair-operations) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
