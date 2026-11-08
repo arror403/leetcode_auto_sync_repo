@@ -7,6 +7,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -94,6 +95,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0301-remove-invalid-parentheses) |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -216,4 +220,12 @@
 |  |
 | ------- |
 | [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
