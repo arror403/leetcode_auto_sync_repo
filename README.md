@@ -19,6 +19,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4041-climbing-stairs-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -116,6 +117,7 @@
 | [0678-valid-parenthesis-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0678-valid-parenthesis-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+| [4041-climbing-stairs-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4041-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
