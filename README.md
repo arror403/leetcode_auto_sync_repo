@@ -16,6 +16,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
