@@ -8,6 +8,7 @@
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
 | [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -45,6 +46,7 @@
 | [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -117,12 +119,14 @@
 | [0032-longest-valid-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0678-valid-parenthesis-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [4041-climbing-stairs-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4041-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
