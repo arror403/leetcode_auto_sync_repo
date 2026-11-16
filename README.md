@@ -72,6 +72,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 ## Geometry
 |  |
