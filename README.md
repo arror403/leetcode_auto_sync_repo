@@ -74,6 +74,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
