@@ -14,6 +14,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -86,6 +87,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
