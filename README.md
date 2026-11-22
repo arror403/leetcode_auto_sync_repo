@@ -73,6 +73,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
