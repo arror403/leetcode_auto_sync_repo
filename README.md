@@ -8,6 +8,7 @@
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [0565-array-nesting](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0565-array-nesting) |
 | [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1760-check-array-formation-through-concatenation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1760-check-array-formation-through-concatenation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -46,6 +47,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1279-prime-arrangements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1279-prime-arrangements) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -132,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -245,4 +248,12 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
