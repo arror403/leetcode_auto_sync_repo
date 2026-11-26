@@ -50,6 +50,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3625-stone-removal-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3625-stone-removal-game) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/0495-teemo-attacking) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3811-reverse-degree-of-a-string) |
 ## Geometry
 |  |
