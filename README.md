@@ -54,6 +54,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4226-check-digitorial-permutation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4226-check-digitorial-permutation) |
 | [4245-count-commas-in-range](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1396-count-servers-that-communicate) |
+| [4226-check-digitorial-permutation](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4226-check-digitorial-permutation) |
 ## Design
 |  |
 | ------- |
