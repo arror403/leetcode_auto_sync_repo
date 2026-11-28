@@ -15,6 +15,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2689-rearranging-fruits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2689-rearranging-fruits) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -37,6 +38,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1945-finding-the-users-active-minutes) |
+| [2689-rearranging-fruits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2689-rearranging-fruits) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -92,6 +94,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2689-rearranging-fruits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2689-rearranging-fruits) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -114,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2689-rearranging-fruits](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2689-rearranging-fruits) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/arror403/leetcode_auto_sync_repo/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
